@@ -18,7 +18,7 @@ func Burbuja(s []int64) {
 
 func main() {
 
-	//s := []int64{1, 6, 2, 4, 7, 0, -2, -1, 5, 3}
+	s := []int64{1, 6, 2, 4, 7, 0, -2, -1, 5, 3}
 	fmt.Println(s)
 	Burbuja(s)
 
